@@ -1,0 +1,6 @@
+wget --no-check-certificate --quiet --method POST --timeout=0 'http://localhost:8080'
+
+wget --no-check-certificate --quiet --method GET --timeout=0 'http://localhost:8080/getUsers'
+
+
+https://www.youtube.com/watch?v=iDogrHEo4x0
